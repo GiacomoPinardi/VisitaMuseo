@@ -3,6 +3,8 @@ package visitamuseo;
 
 public class VisitaMuseo {
     
+    // staff.icar.cnr.it/folino/selab/upload/esercizi/EserciziSincronizzazione.doc
+    
     //@author Pinardi Giacomo
     
     public static void main(String[] args) {
